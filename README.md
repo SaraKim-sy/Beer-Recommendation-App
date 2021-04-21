@@ -38,9 +38,11 @@ This app is deployed publicly on Heroku, click [here](https://beer-recommendatio
 This project was created with:
 * JavaScript
 * HTML/CSS
-* D3
+* D3.js
 * Flask
 * Python 3.8
 * Pandas
 * Jupyter Notebook
+* Selenium
+* Scikit-learn
 
