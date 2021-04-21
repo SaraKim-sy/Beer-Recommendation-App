@@ -18,6 +18,8 @@ Find the completed Toronto New Restaurant Analysis dashboard here: [Beer Recomme
 
 ## <a name="overview"></a>Overview
 This project aims to deliver personalized beer recommendations to beer lovers across the country. Our final product consists of web scraped data, item-based collaborative filtering models using nearest neighbor collaborative filtering and latent factor collaborative filtering, all packed into an interactive Flask web-application. Our purpose is twofold: to create a recommender system of something fun for others to use and in the process learn how to build a complex recommender system.
+
+![data-architecture-diagram](./All-About-Beer/static/img/slide/data.PNG)
   
 ## <a name="machine-learning"></a>Methods of Recommendation
 
