@@ -6,7 +6,7 @@ EDA & Machine Learning Project - **Beer Recommendation Web Application** <br/>
 
 ![beer readme1](./All-About-Beer/static/img/slide/slide2.jpg)
 
-Find the completed Toronto New Restaurant Analysis dashboard here: [Beer Recommendation App](https://beer-recommendation-app.herokuapp.com/)
+Find the completed Toronto New Restaurant Analysis dashboard here: [Beer Recommendation App](https://beer-recommendation-app.herokuapp.com/){:target="_blank" rel="noopener"}
 
 
 ## Table of Contents
@@ -31,7 +31,7 @@ This recommendation will be based on your ratings for three beers that you choos
 
 
 ## Deployment
-This app is deployed publicly on Heroku, click [here](https://beer-recommendation-app.herokuapp.com/) to check it out!
+This app is deployed publicly on Heroku, click [here](https://beer-recommendation-app.herokuapp.com/){:target="_blank" rel="noopener"} to check it out!
  
  
 ## <a name="technologies">Technologies</a>
