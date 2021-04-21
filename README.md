@@ -1,6 +1,6 @@
 # Beer Recommendation App
 
-**Submitted By:** Dong Yi Kim | Saif Gorges | Saloni Gupta | Sooyeon Kim </br>
+**Submitted By:** Sara Kim | Dong Yi Kim | Saif Gorges | Saloni Gupta </br>
 _Date_: March, 25th, 2021\
 EDA & Machine Learning Project - **Beer Recommendation Web Application** <br/>
 
